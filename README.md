@@ -1,8 +1,6 @@
 # Pandas_Employee_Data_Analytics
 
 
-Perfect! Here's a complete `README.md` for your project with **all your code snippets and their corresponding outputs** included. You can copy-paste it directly:
-
 # Data Analysis Project
 
 This repository contains a Python script performing basic data analysis using Pandas and NumPy. Below are the code snippets with their respective outputs.
